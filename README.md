@@ -24,7 +24,7 @@ python run_graph_classification.py --encoding LCP --layer_type GIN \
 ### 2. For node classification
 To run node classification, simply change the script name to `run_node_classification.py`. For example:
 ```bash
-python run_graph_classification.py --encoding LCP
+python run_node_classification.py --encoding LCP
 ```
 
 ## Other encoding methods
